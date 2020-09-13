@@ -1,0 +1,8 @@
+[user]
+	name = Doukeshi
+	email = doukeshi@users.noreply.github.com
+[core]
+	editor = vi
+	excludesfile = /home/x/.gitignore_global
+[pull]
+	rebase = true

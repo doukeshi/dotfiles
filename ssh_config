@@ -1,0 +1,5 @@
+Include /etc/ssh/ssh_config
+
+Host github.com
+    HostName github.com
+    IdentityFile ~/.ssh/github_rsa
