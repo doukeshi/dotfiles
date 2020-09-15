@@ -1,3 +1,5 @@
+export GITLAB_HOME=/opt/gitlab
+
 # pipx
 export PATH=$HOME/.local/bin:$PATH
 
